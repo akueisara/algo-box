@@ -11,7 +11,7 @@ Programming Assignments: [Maximum Pairwise Product](https://github.com/akueisara
 ###  Introduction
 #### Prgramming Assignment: Introduction
 Problem: [Small Fibonacci Number](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%202/fibonacci) </br>
-Problem: [The Last Digit of a Large Fibonacci Number] </br> (https://github.com/akueisara/algorithmic-toolbox/tree/master/week%202/fibonacci_last_digit) </br>
+Problem: [The Last Digit of a Large Fibonacci Number](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%202/fibonacci_last_digit) </br>
 Problem: [Greatest Common Divisor](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%202/gcd) </br>
 Problem: [Least Common Multiple](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%202/lcm) </br>
 Advanced Problem: [Huge Fibonacci Number modulo m](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%202/fibonacci_huge) </br>
