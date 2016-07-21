@@ -21,3 +21,4 @@ Problem: [Changing Money](https://github.com/akueisara/algorithmic-toolbox/tree/
 Problem: [Fractional Knapsack](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%203/fractional_knapsack) </br>
 Problem: [Minimum Dot Product](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%203/dot_product) </br>
 Problem: [Covering Segments by Points](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%203/covering_segments) </br>
+Problem: [Pairwise Distinct Summands](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%203/different_summands) </br>
