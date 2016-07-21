@@ -14,3 +14,10 @@ Problem: [The Last Digit of a Large Fibonacci Number](https://github.com/akueisa
 Problem: [Greatest Common Divisor](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%202/gcd) </br>
 Problem: [Least Common Multiple](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%202/lcm) </br>
 Advanced Problem: [Huge Fibonacci Number modulo m](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%202/fibonacci_huge) </br>
+
+## Week 3
+###  Programming Assignment: Greedy Algorithms
+Problem: [Changing Money](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%203/change) </br>
+Problem: [Fractional Knapsack](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%203/fractional_knapsack) </br>
+Problem: [Minimum Dot Product](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%203/dot_product) </br>
+Problem: [Covering Segments by Points](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%203/covering_segments) </br>
