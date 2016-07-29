@@ -22,3 +22,11 @@ Problem: [Fractional Knapsack](https://github.com/akueisara/algorithmic-toolbox/
 Problem: [Minimum Dot Product](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%203/dot_product) </br>
 Problem: [Covering Segments by Points](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%203/covering_segments) </br>
 Problem: [Pairwise Distinct Summands](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%203/different_summands) </br>
+
+## Week 4
+###  Programming Assignment: Divide and Conquer
+Problem: [Binary Search](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%204/binary_search) </br>
+Problem: [Majority Element](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%204/majority_element) </br>
+Problem: [3-Way Partition](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%204/sorting) </br>
+Problem: [Number of Inversions](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%204/inversions) </br>
+Problem: [Points and Segments](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%204/points_and_segments) </br>
