@@ -28,5 +28,5 @@ Problem: [Pairwise Distinct Summands](https://github.com/akueisara/algorithmic-t
 Problem: [Binary Search](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%204/binary_search) </br>
 Problem: [Majority Element](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%204/majority_element) </br>
 Problem: [3-Way Partition](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%204/sorting) </br>
-Problem: [Number of Inversions](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%204/inversions) </br>
-Problem: [Points and Segments](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%204/points_and_segments) </br>
+Advanced Problem: [Number of Inversions](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%204/inversions) </br>
+Advanced Problem: [Points and Segments](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%204/points_and_segments) </br>
