@@ -1,3 +1,5 @@
+# originally from http://www.cnblogs.com/dm1299/p/5571108.html
+
 from itertools import chain
 
 def fast_count_segments(starts, ends, points):
