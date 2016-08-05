@@ -36,10 +36,10 @@ public class PlacingParentheses {
     }
 	
 	private static long[] MinAndMax(int i, int j, char[] op, long[][] m, long[][] M) {
-		// long mmin = numeric_limits<long long>::infinity();
-		// long mmax = - numeric_limits<long long>::infinity();
-		long mmin = 10000;
-		long mmax = -10000;
+		long mmin = (long)Double.POSITIVE_INFINITY;
+		long mmax = -(long)Double.POSITIVE_INFINITY;
+		// long mmin = 10000;
+		// long mmax = -10000;
 		for(int k=i;k<j;k++) {
 			long a = eval(M[i][k], M[k+1][j], op[k]);
 			long b = eval(M[i][k], m[k+1][j], op[k]);
