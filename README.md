@@ -32,7 +32,7 @@ Advanced Problem: [Number of Inversions](https://github.com/akueisara/algorithmi
 Advanced Problem: [Points and Segments](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%204/points_and_segments) </br>
 
 ## Week 5
-### Programming Assignment 4: Dynamic Programming
+### Programming Assignment: Dynamic Programming
 Problem: [Primitive Calculator](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%205/primitive_calculator) </br>
 Problem: [Take as Much Gold as Possible](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%205/knapsack) </br>
 Problem: [Compute the Edit Distance Between Two Strings](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%205/edit_distance) </br>
