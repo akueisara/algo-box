@@ -37,4 +37,4 @@ Problem: [Primitive Calculator](https://github.com/akueisara/algorithmic-toolbox
 Problem: [Take as Much Gold as Possible](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%205/knapsack) </br>
 Problem: [Compute the Edit Distance Between Two Strings](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%205/edit_distance) </br>
 Problem: [Maximize the Value of an Arithmetic Expression](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%205/placing_parentheses) </br>
-Advanced [Problem: Longest Common Subsequence of Three Sequences](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%205/lcs3) </br>
+Advanced Problem: [Longest Common Subsequence of Three Sequences](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%205/lcs3) </br>
