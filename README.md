@@ -1,7 +1,7 @@
 # Algorithmic Toolbox
 Assignments for Algorithmic Toolbox on Coursera </br>
 
-<strong>Note:</strong> I didn't have access to submitting my assignments (I didn't pay for the course.) If there's something wrong in my code, please tell me. Thanks!
+<strong>Note:</strong> I didn't have access to submitting my assignments. It's just for my personal learning purpose.
 
 ## Week 1
 ### Solving a Simple Code Problem
