@@ -2,11 +2,7 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
-struct segment
-{
-  int start;
-  int end;
-};  
+
 vector<int> fast_count_segments(vector<pair<int,int>> &v,vector<int> points) {
   vector<int> cnt(points.size());
   //write your code here
