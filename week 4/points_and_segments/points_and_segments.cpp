@@ -3,7 +3,7 @@
 #include <algorithm>
 using namespace std;
 
-vector<int> fast_count_segments(vector<pair<int,int>> &v,vector<int> points) {
+vector<int> fast_count_segments(vector<pair<int,int> > &v,vector<int> points) {
   vector<int> cnt(points.size());
   //write your code here
   int n1=v.size(),n2=points.size(),i=0,j=0,k;
@@ -34,14 +34,14 @@ vector<int> naive_count_segments(vector<int> starts, vector<int> ends, vector<in
 int main() {
   int n, m,a,b;
   std::cin >> n >> m;
-  std::vector<pair<int,int>> v;
-  for(auto i =0;i<n;i++)
+  std::vector<pair<int,int> > v;
+  for(int i =0;i<n;i++)
   {
     cin>>a>>b;
     v.push_back(make_pair(a,b));
   }
   vector<int> points(m);
-  for (auto i = 0; i < points.size(); i++) {
+  for (int i = 0; i < points.size(); i++) {
     std::cin >> points[i];
   }
   sort(v.begin(),v.end());
